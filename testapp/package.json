@@ -28,7 +28,7 @@
 		"@wdio/spec-reporter": "^9.23.3",
 		"eslint": "^9.36.0",
 		"eslint-plugin-jsdoc": "^62.0.0",
-		"globals": "^16.4.0",
+		"globals": "^17.0.0",
 		"rimraf": "^6.0.1",
 		"start-server-and-test": "^2.1.2",
 		"ui5-middleware-livereload": "^3.1.4",
